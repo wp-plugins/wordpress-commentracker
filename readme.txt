@@ -49,7 +49,8 @@ None yet
 == Screenshots ==
 
 1. This screenshot shows the capture dialog.
-2. This screenshot shows my customized template for the distributed comments category. 
+2. This screenshot shows my customized template for the distributed comments category.
+3. This screenshots shows how a single comment entry looks like on my customized template. 
 
 == Usage ==
 
