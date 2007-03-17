@@ -87,7 +87,7 @@ v0.1 = Initial release.
 
 == Credits and Acknowledgments ==
 
-Thanks to Sergio Álvarez (xergio) for writing the CommenTracker script.
+Thanks to Sergio Alvarez (xergio) for writing the CommenTracker script.
 
 == ToDo ==
 
