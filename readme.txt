@@ -15,9 +15,9 @@ Wordpress Commentracker helps you tracking your comments across the blogosphere 
 
 == Description ==
 
-[ Notas en castellano en la web ]  [  Notes en català a la web ]
+[ Notas en castellano en la web ]  [  Notes en catalagrave; a la web ]
 
-This plugin is based on CommenTracker script by Sergio Álvarez (xergio) [ http://xergio.net/escrito-292/comentarios-cruzados.html ]
+This plugin is based on CommenTracker script by Sergio Aacute;lvarez (xergio) [ http://xergio.net/escrito-292/comentarios-cruzados.html ]
 
 Commentracker is a script for managing your Distributed Conversations across the blogosphere. It means it is a way to save a local copy of all the comments you post on other blogs.
 
