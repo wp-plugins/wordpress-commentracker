@@ -6,11 +6,11 @@ Author: Joan Junyent Tarrida
 Author URI: http://www.junyent.org/
 Contributors: jjunyent
 Donate link: 
-Plugin URI: http://www.junyent.org/blog/arxius/2006/09/06/wordpress-commentracker/
-Version: 0.1
+Plugin URI: http://www.junyent.org/blog/2006/09/06/wordpress-commentracker/
+Version: 0.1.1
 Tags: comments, distributed conversation, asides
 Requires at least: 2.0
-Tested up to: 2.1
+Tested up to: 2.1.3
 Stable tag: 0.1
 
 [ Notas en castellano en la web ]  [  Notes en català a la web ]
