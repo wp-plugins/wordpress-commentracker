@@ -5,10 +5,10 @@ Author URI: http://junyent.org/
 Contributors: jjunyent
 Donate link: http://junyent.org/blog/my-code 
 Plugin URI: http://junyent.org/blog/my-code
-Version: 0.1
+Version: 0.1.1
 Tags: comments, distributed conversation, asides
 Requires at least: 2.0
-Tested up to: 2.1
+Tested up to: 2.1.3
 Stable tag: 0.1
 
 Wordpress Commentracker helps you tracking your comments across the blogosphere and storing them on your own blog.
@@ -83,6 +83,7 @@ The CommenTracker script is licensed under a Creative Commons by-sa license.
 
 == Changelog ==
 
+v0.1.1 = Fixed a wrong route.
 v0.1 = Initial release.
 
 == Credits and Acknowledgments ==
