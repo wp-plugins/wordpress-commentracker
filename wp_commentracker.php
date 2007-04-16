@@ -8,7 +8,7 @@ Author URI: http://www.junyent.org/
 Contributors: jjunyent
 Donate link: 
 Plugin URI: http://www.junyent.org/blog/arxius/2006/09/06/wordpress-commentracker/
-Version: 0.1
+Version: 0.1.1
 Tags: comments, distributed conversation, asides
 Requires at least: 2.0
 Tested up to: 2.1
@@ -99,7 +99,7 @@ cm_init();
 <?
     break;
 
-	require('./wp-content/plugins/wpct_plugin.php');
+	require('./wp-content/plugins/wp_ct_plugin.php');
     
 	case "add":
 
