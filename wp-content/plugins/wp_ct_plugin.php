@@ -35,15 +35,5 @@ require_once(ABSPATH . 'wp-config.php');
 
 // function wpctblogs returns a list of the most commented blogs
 
-function wpctblogs() {
-		$wpctblogs = $wpdb->query(SELECT wp_postmeta.meta_value, wp_postmeta.meta_key, COUNT(*) AS wpctblogs_counted FROM wp_postmeta WHERE wp_postmeta.meta_key = 'Blog' GROUP BY wp_postmeta.meta_value ORDER BY wpctblogs_counted DESC LIMIT 10);
-		
-		if ($wpctblogs) {
-			echo "<ul>";
-			foreach ($wpctblogs as $wpctblog){
-				echo "<li id=\"wpct_bloglist\"><a href=\"" . $wpctblogs['meta_value'] . "\">" . $wpctblogs['meta_value'] . " (" . $wpctblogs['wpctblogs_counted'] . ")</a></li>";
-				}
-			echo "</ul>";	
-			}	
-		}
+
 ?>
