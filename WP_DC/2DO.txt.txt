@@ -1,0 +1,5 @@
+
+Assignar una URL pel plugin.
+Crear una funció per a la plantilla.
+
+
